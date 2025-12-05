@@ -22,3 +22,10 @@ Currently focused on the digital transformation of:
 - Aleph Engineering GmbH (Hannover, Germany) -> Transition to a modern, AI-driven development process.
 - Klever Engineering GmbH (dogfooding our own AI-native operations :) ).
 
+Follow Klever Engineering on:
+- X: https://x.com/klever_engineer
+- LinkedIn: https://www.linkedin.com/company/klever-engineering
+- Website: https://klever.engineering
+- YouTube: https://www.youtube.com/@klever-engineering
+- Instagram: https://www.instagram.com/klever_engineering
+Contact: alian@klever.engineering
