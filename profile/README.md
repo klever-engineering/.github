@@ -1,4 +1,4 @@
-# Klever Engineering GmbH
+# Klever Engineering GmbH i.G.
 Personal holding & consulting (persönliche „Management- und Beteiligungsgesellschaft“) company of Alián Rigñack.
 Born AI-native (September 2025); 99% of execution runs on agents with operator-engineer supervision.
 Consulting on software development, project management, agentic systems implementation, digital transformation, operator-engineer roles.
