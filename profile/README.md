@@ -20,18 +20,16 @@ Consulting on software development, project management, agentic systems implemen
 
 ## Current Focus
 - Aleph Engineering 
-    - Company AI for Aleph Engineering operations.
-    - Transformation of software development with AI-native workflows.  
-    - Project Management dashboards
+    - `Company AI` project for Aleph Engineering as part of the AE 2.0 digital tranformation initiative.
 - Klever Engineering
-    - Company AI for Klever Engineering operations. Dogfooding our AI-native operations end-to-end ;)   
+    - `Company AI` project for Klever Engineering operations. Dogfooding our AI-native operations end-to-end ;)   
 - Personal systems:
     - Klever Life Operating System (KLOS) - personal life OS for Alián.   
     - KE Inbox Funnel. A system to manage, channel and process all the incoming communications and requests using AI agents.
 
 ## Partners
 - Aleph Engineering GmbH (software development, Hannover, Germany).
-- Cuban Engineer (CE S.R.L., Havana, Cuba).
+- Cuban Engineer (software house in Havana, Cuba).
 - AI Impact Partners (private equity for AI-driven transformations).
 - Aleph Ventures GmbH (AI-first venture studio).
 
