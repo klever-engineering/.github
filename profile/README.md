@@ -3,9 +3,9 @@ Personal holding & consulting (persönliche „Management- und Beteiligungsgesel
 Born AI-native (September 2025); 99% of execution runs on agents with operator-engineer supervision.
 Consulting on software development, project management, agentic systems implementation, digital transformation, operator-engineer roles.
 
-**Founder/operator:** 
-- Alian Rignack (@arignack). Also CEO of Aleph Engineering GmbH (Hannover, Germany). Contact: alian@aleph.engineering / alian@klever.engineering.
-- Aleph Ventures GmbH
+**Founder/Managing director:** 
+- Alián Rigñack. CEO of [Aleph Engineering GmbH](https://aleph.engineering/) (Hannover, Germany).
+
 
 ## What We Do
 - Consulting, implementation and operation of AI-native business systems.
@@ -37,12 +37,9 @@ Consulting on software development, project management, agentic systems implemen
 
 ## Connect
 - Email: alian@aleph.engineering
+- LinkedIn: https://www.linkedin.com/in/alianrignack/
 Coming soon:
 - Website: https://klever.engineering
-- X: https://x.com/klever_engineer
-- LinkedIn: https://www.linkedin.com/company/klever-engineering
-- YouTube: https://www.youtube.com/@klever-engineering
-- Instagram: https://www.instagram.com/klever_engineering
 - Email: alian@klever.engineering
 
 - 💬 Questions: open issues with `type:question`
