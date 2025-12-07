@@ -38,8 +38,8 @@ Consulting on software development, project management, agentic systems implemen
 ## Connect
 - Email: alian@aleph.engineering
 - LinkedIn: https://www.linkedin.com/in/alianrignack/
+
 Coming soon:
 - Website: https://klever.engineering
 - Email: alian@klever.engineering
 
-- 💬 Questions: open issues with `type:question`
