@@ -1,23 +1,33 @@
-# Klever Engineering
+# Klever Engineering GmbH
+Personal holding & consulting (persönliche „Management- und Beteiligungsgesellschaft“) company of Alián Rigñack.
+Born AI-native (September 2025); 99% of execution runs on agents with operator-engineer supervision.
+Consulting on software development, project management, agentic systems implementation, digital transformation, operator-engineer roles.
 
-AI agentic systems, operator-grade reliability, and human-in-the-loop oversight. Born AI-native (September 2025); 99% of execution runs on agents with operator supervision.
-
-**Founder/operator:** Alian Rignack (@arignack). Also CEO of Aleph Engineering GmbH (Hannover, Germany). Contact: alian@aleph.engineering / alian@klever.engineering.
+**Founder/operator:** 
+- Alian Rignack (@arignack). Also CEO of Aleph Engineering GmbH (Hannover, Germany). Contact: alian@aleph.engineering / alian@klever.engineering.
+- Aleph Ventures GmbH
 
 ## What We Do
-- Design and operate AI agentic systems with observability, safety, and runbooks.
+- Consulting, implementation and operation of AI-native business systems.
 - Modernize non-AI-native companies with AI-driven workflows and automation.
-- Build operator-grade AI for solopreneurs and lean teams to run entire businesses.
+- Build operator-engineer systems for solopreneurs to run entire businesses.
 - Consult and train teams adopting AI-native operations, governance, and tooling.
 
 ## Who We Serve
 - Software companies transforming their delivery with AI/agentic workflows.
-- Solopreneurs and small teams running companies with AI operators.
+- Solopreneurs running companies with AI operators.
 - Investors and partners needing reliable AI automation in their portfolio.
 
 ## Current Focus
-- Aleph Engineering GmbH (Hannover, Germany): transition to AI-driven development with operator metrics, reviews, and guardrails.
+- Aleph Engineering GmbH (Hannover, Germany) 
+    - Company AI for Aleph Engineering operations.
+    - Transformation of software development with AI-native workflows.  
+    - Project Management dashboards
 - Klever Engineering GmbH: dogfooding our AI-native operations end-to-end.
+    - Company AI for Klever Engineering operations.
+- Personal systems:
+    - Klever Life Operating System (KLOS) - personal life OS for Alián.   
+    - KE Inbox Funnel. A system to manage, channel and process all the incoming communications and requests using AI agents.
 
 ## Partners
 - Aleph Engineering GmbH (software development, Hannover, Germany).
