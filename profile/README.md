@@ -41,3 +41,5 @@ Coming soon:
 - Website: https://klever.engineering
 - Email: alian@klever.engineering
 
+Technology focus
+- AI-native, agentic systems, operator-engineer, digital transformation, AI automation, AI-driven workflows
