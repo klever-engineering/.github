@@ -1,0 +1,134 @@
+name: Agent Task
+description: Structured intake for autonomous or agent-assisted work in Klever Engineering
+title: "[AGENT] "
+labels: ["needs:triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Agent Task Intake
+
+        Use this template when the work is intended for an autonomous or agent-assisted execution flow.
+
+        This template follows the Klever company-root issue-intake standard so the task has enough context to be executed safely.
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What needs to be done and why now?
+      placeholder: |
+        Short summary of the task and why it matters now.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Context, objectives, inputs, and governing references
+      placeholder: |
+        **Context:**
+        Brief background and business or operational context.
+
+        **Objectives:**
+        1. First concrete outcome
+        2. Second concrete outcome
+
+        **Inputs / Systems Needed:**
+        - Data source, tool, or system
+        - Required credentials or access path
+
+        **Governing References:**
+        - Relevant handbook page, roadmap item, policy, or SOP
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: What is in scope and out of scope?
+      placeholder: |
+        **In scope:**
+        - Item 1
+        - Item 2
+
+        **Out of scope:**
+        - Item 1
+        - Item 2
+    validations:
+      required: true
+
+  - type: textarea
+    id: definition-of-done
+    attributes:
+      label: Definition of Done
+      description: Concrete completion conditions
+      placeholder: |
+        - [ ] Expected output exists
+        - [ ] Required systems or docs are updated
+        - [ ] Evidence is stored in the declared destination
+        - [ ] Any follow-up or residual risk is documented
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: How correctness will be checked
+      placeholder: |
+        **Validation steps:**
+        1. First verification step
+        2. Second verification step
+
+        **Reviewer / sign-off:**
+        - Owner or reviewer name
+    validations:
+      required: true
+
+  - type: input
+    id: owner
+    attributes:
+      label: Owner
+      description: Primary owner for the task
+      placeholder: "Alián Rigñack Quevedo"
+
+  - type: input
+    id: target-path
+    attributes:
+      label: Target Path or System
+      description: Which repo path, handbook page, system, or operating surface is affected?
+      placeholder: "playbooks/roadmap/roadmap-operations.md"
+
+  - type: input
+    id: due-date
+    attributes:
+      label: Due Date
+      description: Due date or planning window (YYYY-MM-DD or short window text)
+      placeholder: "2026-03-24"
+
+  - type: textarea
+    id: evidence-destination
+    attributes:
+      label: Evidence Destination
+      description: Where should outputs, proof, and retro-logging land?
+      placeholder: |
+        - project-minutes.md
+        - roadmap-notes/
+        - linked ClickUp task
+        - linked GitHub issue comment
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Any dependencies, blockers, related tasks, or special constraints
+      placeholder: |
+        - Related ClickUp task:
+        - Related GitHub issue:
+        - Blocking dependency:
+        - Legal, compliance, or timing note:
