@@ -93,7 +93,7 @@ body:
     attributes:
       label: Owner
       description: Primary owner for the task
-      placeholder: "Alián Rigñack Quevedo"
+      placeholder: "@username"
 
   - type: input
     id: target-path
