@@ -12,7 +12,6 @@ evidence, observability, and human control where it matters.
 ## Connect
 
 - Website: https://klever.engineering
-- Email: hello@klever.engineering
+- Email: alian@klever.engineering
 - GitHub: https://github.com/klever-engineering
 - LinkedIn: https://www.linkedin.com/in/alianrignack/
-
